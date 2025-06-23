@@ -1,9 +1,10 @@
-# 🃏 Claude-Jester Enhanced MCP Server
+# 🃏 Claude Jester MCP
+## "Every King needs a Jester"
 
 <div align="center">
   <img src="CodeJester.jpg" alt="Claude-Jester Logo" width="300" height="300">
   
-  <h3>🌟 Jester MCP 🌟</h3>
+  <h3>🌟 Claude Jester🌟</h3>
   <h2><em></em></h2>
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
